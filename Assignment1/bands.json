@@ -1,0 +1,67 @@
+[
+    {
+        
+        "Name": "Rush",
+        "Genre": ["Prog Rock", "Hard Rock", "Heavy Metal"],
+        "numberOfAlbums": 19, 
+        "founded":{
+            "city": "Toronto",
+            "country": "Canada",
+            "year":1969
+                    },
+        "photo":"https://i.guim.co.uk/img/media/7e8ffc09cfbddad692a5b4d5296236f206005ed6/1015_114_4017_2410/master/4017.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=fcf61e769af39e7fa82a9008140c5be7"
+        },
+
+    {
+        
+	
+        "Name": "Judas Priest",
+         "Genre": ["Speed Metal", "Hard Rock", "Heavy Metal"],
+         "numberOfAlbums": 18, 
+         "founded":{
+            "city": "Birmingham",
+            "country": "England",
+            "year":1969
+                    },
+        "Band Photo":"https://townsquare.media/site/366/files/2021/04/Judas-Priest-Top-10s.jpg?w=980&q=75"
+        },
+
+    {
+	    
+            "Name": "Black Sabbath",
+             "Genre": ["Doom Metal", "Hard Rock", "Heavy Metal"],
+             "numberOfAlbums": 19, 
+             "founded":{
+                "city": "Birmingham",
+                "country": "England",
+                "year":1968
+                        },
+            "Band Photo":"https://upload.wikimedia.org/wikipedia/commons/4/42/Sabs.jpg"
+            },
+
+            {
+        	
+                "Name": "Metallica",
+                 "Genre": ["Thrash Metal", "Speed Metal", "Heavy Metal"],
+                 "numberOfAlbums": 10, 
+                 "founded":{
+                    "city": "Los Angeles",
+                    "country": "USA",
+                    "year":1981
+                            },
+                "Band Photo":"https://www.rollingstone.com/wp-content/uploads/2016/03/metallica-master-of-puppets-at-30.jpg"
+                },
+
+                {
+		    
+                    "Name": "Iron Maiden",
+                     "Genre": ["Thrash Metal", "Hard Rock", "Heavy Metal"],
+                     "numberOfAlbums": 17, 
+                     "founded":{
+                        "city": "London",
+                        "country": "England",
+                        "year":1975
+                                },
+                    "Band Photo":"https://www.nme.com/wp-content/uploads/2021/07/IronMaiden-news.jpg"
+                    }
+]
